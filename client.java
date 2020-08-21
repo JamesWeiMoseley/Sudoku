@@ -1,10 +1,6 @@
-package guidemo;
+package Sudoku;
 
 import java.io.FileNotFoundException;
-
-//James Moseley CS 211 Winter 2020
-//this is the client class
-
 
 public class client {
 

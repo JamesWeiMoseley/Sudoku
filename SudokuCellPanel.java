@@ -1,4 +1,4 @@
-package guidemo;
+package Sudoku;
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -6,9 +6,7 @@ import javax.swing.BorderFactory;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-//James Moseley CS 211
 //SudokuCellPanel is the JPanel object we will be using
-
 
 public class SudokuCellPanel extends JPanel {
 

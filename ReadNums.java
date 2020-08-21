@@ -1,10 +1,9 @@
-package guidemo;
+package Sudoku;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-//James Moseley CS 211 Winter 2020
 //ReadNums Class is simply reading the file with a scanner
 
 public class ReadNums {

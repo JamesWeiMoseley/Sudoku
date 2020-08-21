@@ -1,4 +1,4 @@
-package guidemo;
+package Sudoku;
 
 import java.awt.Component;
 import java.awt.Dimension;
@@ -10,7 +10,6 @@ import java.util.List;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
-//James Moseley CS 211 Winter 2020
 //SudokuPart is main part of the program that will be setting up the GUI, 
 //solving the puzzle, and implementing the button action listener
 
