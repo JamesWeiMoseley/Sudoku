@@ -1,4 +1,4 @@
-# Sudoku
+# Sudoku Solver GUI
 
 This program solves a sudoku puzzle for you using recursion.  
 Imports the number from a txt file (an example is included). 
