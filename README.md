@@ -21,3 +21,6 @@ Here is an additional one and would look for the program:
 
 Unfortunately since applet has been phased out my java there is no interactive
 puzzle.  Javascipt version coming soon. 
+
+
+[![Run on Repl.it](https://repl.it/badge/github/JamesWeiMoseley/Sudoku)](https://repl.it/github/JamesWeiMoseley/Sudoku)
